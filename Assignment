@@ -1,0 +1,66 @@
+ SDLC Model Selection for Online Shopping Website:
+
+Name:Mrinmay Kalita
+Roll:230710007036
+Course:Software Engineering (CSE18160E11)
+B.Tech Computer Science and Engineering
+6th Semester
+
+
+
+1. Introduction
+An Online Shopping Website is a web-based platform that allows users to browse products, add items to a cart, make payments, and track orders. It includes features like user authentication, product catalog, search filters, payment gateways, order management, and customer support. Since user expectations and market trends change frequently, the system needs to be continuously updated and improved.
+2. Selected SDLC Model
+Agile Model
+
+3. Justification 
+Requirement Flexibility
+ Requirements in online shopping platforms change frequently (new features like discounts, recommendations, UI updates). Agile easily adapts to these changes.
+High User Involvement
+ Customer feedback is crucial (UX improvements, checkout experience). Agile allows continuous feedback and quick implementation.
+Moderate to High Complexity
+ The system includes multiple modules (payment, inventory, delivery tracking). Agile supports modular and iterative development.
+Risk Management
+ Bugs in payment or order systems can be critical. Agile’s continuous testing helps detect and fix issues early.
+Faster Delivery of Features
+ Features can be released in small iterations (e.g., first basic shopping, then adding reviews, AI recommendations).
+
+
+
+4. Comparison with Other Models
+ : Waterfall Model
+Works in a fixed sequence
+Difficult to handle requirement changes
+Not suitable for dynamic platforms like e-commerce
+  : Spiral Model
+Complex and expensive
+More suitable for high-risk large-scale systems
+Not efficient for frequent small updates
+
+
+
+5.Diagram (Agile Model)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.Conclusion
+The Agile Model is the most suitable SDLC model for an online shopping website because it provides flexibility, supports continuous user feedback, enables faster feature delivery, and efficiently handles system complexity. It ensures that the platform remains competitive and up-to-date with changing user demands.
